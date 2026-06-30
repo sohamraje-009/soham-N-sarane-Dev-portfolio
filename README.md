@@ -1,6 +1,6 @@
 # $oham N Sarane's Portfolio Website - Overview 🚀
 
-This repository contains the open source version of my portfolio website.
+This repository contains the open source version of my portfolio website:
 Do check it out!
 
 ## Instructions 🛠️
